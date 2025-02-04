@@ -3,7 +3,7 @@
 
 ## Description
 
-The **Time Zone Converter** is a simple web-based tool that allows users to convert a specific time from one time zone to another. It supports a wide range of time zones, including common ones like **Pacific Standard Time (PST)**, **Eastern Standard Time (EST)**, **Greenwich Mean Time (GMT)**, **Indian Standard Time (IST)**, **Japan Standard Time (JST)**, **Australian Eastern Standard Time (AEST)**, **Korean Standard Time (KST)**, and **Switzerland Time (Zurich)**.
+The **Time Zone Converter** is a simple web-based tool that allows users to convert a specific time from one time zone to another. It supports a wide range of time zones, including common ones like **Pacific Standard Time (PST)**, **Eastern Standard Time (EST)**, **Greenwich Mean Time (GMT)**, **Indian Standard Time (IST)**, **Japan Standard Time (JST)**and **Australian Eastern Standard Time (AEST)**.
 
 This project is built using **HTML**, **CSS**, and **JavaScript**, utilizing the **Moment.js** and **Moment Timezone** libraries for accurate time zone conversion. It handles **daylight saving time (DST)** changes and UTC offsets.
 
@@ -11,7 +11,7 @@ This project is built using **HTML**, **CSS**, and **JavaScript**, utilizing the
 
 - **Time Zone Conversion**: Allows users to convert time from one time zone to another.
 - **Dynamic Dropdown**: Users can select both the source and target time zones from a dynamic dropdown populated with time zone names and UTC offsets.
-- **Wide Range of Supported Time Zones**: Includes **PST**, **EST**, **GMT**, **CET**, **AEST**, **KST**, **Europe/Zurich** (Switzerland), and more.
+- **Wide Range of Supported Time Zones**: Includes **PST**, **EST**, **GMT**, **CET**, **AEST**and more.
 - **Daylight Saving Time (DST) Support**: The conversion accounts for daylight saving changes where applicable.
 
 ## Live Demo
